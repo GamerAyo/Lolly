@@ -1,4 +1,4 @@
-# 🍬 Candy – Golden carrots
+#  Candy – Golden carrots
 Make your golden carrots into candy!
 
 **Candy – Golden carrots** is a small, resource packs for minecraft that turns Golden Carrots into candy when renamed.
